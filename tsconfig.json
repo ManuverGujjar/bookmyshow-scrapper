@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"module": "CommonJS",
+		"lib": ["ES2015", "DOM"],
+		"outDir": "out",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true
+	}
+}
